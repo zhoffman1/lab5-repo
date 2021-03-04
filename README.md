@@ -1,10 +1,11 @@
 # lab5-repo
 
-This python program takes in a users name and says hi to you a specified number of times.
+This python program takes in a users name and says greets the user a specified number of times
 
 The people involved in this repository are as follows:
 
 Alvyn Berg
+
 Zachary Hoffman
 
 
